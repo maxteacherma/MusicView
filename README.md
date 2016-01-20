@@ -1,2 +1,2 @@
 # MusicView
-![image](https://github.com/maxteacherma/MusicView.gif)
+![image](https://github.com/maxteacherma/MusicView/MusicView.gif)
